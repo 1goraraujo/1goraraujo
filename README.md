@@ -29,6 +29,4 @@ Olá, sou o Igor! 👋
 
 
 ![Snake animation]([https://github.com/1goraraujo/1goraraujo](https://github.com/1goraraujo/1goraraujo.git)/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](/blob/output/github-contribution-grid-snake.svg)
-
 </div>
