@@ -29,4 +29,4 @@ Olá, sou o Igor! 👋
   
 </div>
 
-   ![snake gif](https://github.com/1goraraujo/1goraraujo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/1goraraujo/1goraraujo/blob/output/github-contribution-grid-snake.svg)
